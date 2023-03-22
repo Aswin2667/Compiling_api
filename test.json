@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Update API documentation with new endpoints",
+  "commitMessage": "Add input sanitization to forms",
   "date": "2023-03-23",
   "timestamp": "2023-03-23T00:00:00+05:30"
 }
