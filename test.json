@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Fix issue with file uploads in Safari",
-  "date": "2023-06-21",
-  "timestamp": "2023-06-21T00:00:00+05:30"
+  "commitMessage": "Improve error messages for failed logins",
+  "date": "2023-06-22",
+  "timestamp": "2023-06-22T00:00:00+05:30"
 }
