@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Improve accessibility on forms",
+  "commitMessage": "Add unit tests for email validation",
   "date": "2023-07-03",
   "timestamp": "2023-07-03T00:00:00+05:30"
 }
