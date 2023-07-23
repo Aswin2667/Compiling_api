@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Increase test coverage for backend",
+  "commitMessage": "Improve error messages for failed logins",
   "date": "2023-07-24",
   "timestamp": "2023-07-24T00:00:00+05:30"
 }
