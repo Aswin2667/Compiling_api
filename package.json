@@ -1,0 +1,20 @@
+{
+  "name": "compiling_api",
+  "version": "1.0.0",
+  "description": "[![Judge0 Wallpaper](./.github/judge0-colored.png)](https://ce.judge0.com) # Judge0 CE",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1"
+  }
+}
